@@ -14,7 +14,8 @@ Ex-Project and Software Developer @ Zenjade Automation Private Limited.
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UC5-tvl2iaiG4fSqVYT8oXAQ)
 
 ### Coding Knowledge So Far
-
+<br>
+<br>
 **Programming & Scripting Languages:** 
 <br>
 <br>
@@ -22,6 +23,8 @@ Ex-Project and Software Developer @ Zenjade Automation Private Limited.
 <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
 
 **Web Development:**
+<br>
+<br>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
@@ -31,38 +34,53 @@ Ex-Project and Software Developer @ Zenjade Automation Private Limited.
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 
 **API Development:**
-
+<br>
+<br>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 
 **Database Management:**
-
+<br>
+<br>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 
 
 **Game Development:**
+<br>
+<br>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 
 
 ### Tools 
+<br>
+<br>
+**Automation Testing:**
+<br>
+<br>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 **Automation Testing:**
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-
-**Automation Testing:**
+<br>
+<br>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 **Continuous Integration:**
+<br>
+<br>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 **Continuous Integration:**
+<br>
+<br>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 
 ### 💻 Workspace Spec
+<br>
+<br>
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
