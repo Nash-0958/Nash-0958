@@ -13,7 +13,7 @@ Ex-Project and Software Developer @ Zenjade Automation Private Limited.
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I'm A Vlogger too.
 
-### Check out the below link👇
+#### Click the link below to know more: 👇
 
 <a href="https://www.youtube.com/channel/UC5-tvl2iaiG4fSqVYT8oXAQ">@NashThoughts.yt</a>
 
