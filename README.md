@@ -16,67 +16,33 @@ Ex-Project and Software Developer @ Zenjade Automation Private Limited.
 ### Coding Knowledge So Far
 <br>
 <br>
-**Programming & Scripting Languages:** 
-<br>
-<br>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
-
-**Web Development:**
-<br>
-<br>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-
-**API Development:**
-<br>
-<br>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-
-**Database Management:**
-<br>
-<br>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-
-
-**Game Development:**
-<br>
-<br>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" />
+<img height="50" width="50" src="https://img.icons8.com/nolan/64/c-plus-plus-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/html-5.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/javascript--v1.png" />
+<img height="50" width="50" src="" />
+<img height="50" width="50" src="" />
+<img height="50" width="50" src="" />
+<img height="50" width="50" src="" />
+<img height="50" width="50" src="" />
+<img height="50" width="50" src="" />
+<img height="50" width="50" src="" />
+<img height="50" width="50" src="" />
+<img height="50" width="50" src="" />
 
 
 ### Tools 
 <br>
 <br>
-**Automation Testing:**
-<br>
-<br>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-
-**Automation Testing:**
-<br>
-<br>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-
-**Continuous Integration:**
-<br>
-<br>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-
-**Continuous Integration:**
-<br>
-<br>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img height="50" width="50" src="" />
+<img height="50" width="50" src="" />
+<img height="50" width="50" src="" />
+<img height="50" width="50" src="" />
+<img height="50" width="50" src="" />
+<img height="50" width="50" src="" />
+<img height="50" width="50" src="" />
 
 
 ### 💻 Workspace Spec
