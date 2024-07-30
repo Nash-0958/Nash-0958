@@ -12,7 +12,8 @@ Ex-Project and Software Developer @ Zenjade Automation Private Limited.
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nithishkumarvasudevan/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I'm A Vlogger too.
-<img src="https://yt3.ggpht.com/X8FMKzX_OOYeiqyqjPeuvGqzPJ7RB6TDirO5WoULCET3R2NJ6vcJpmInpQl00i3Tw5JItDnKyQ=s600-c-k-c0x00ffffff-no-rj-rp-mo" alt="Description of Image" style="width: 100px; height: auto;">
+
+###Check out the below link👇
 <a href="https://www.youtube.com/channel/UC5-tvl2iaiG4fSqVYT8oXAQ">@NashThoughts.yt</a>
 
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5-tvl2iaiG4fSqVYT8oXAQ)
