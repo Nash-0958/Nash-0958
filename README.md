@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me NASH (aka) Nithishkumar Vasudevan
 Ex-Project and Software Developer @ Zenjade Automation Private Limited.
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<br>
+<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/929657/screenshots/2263931/media/705fc3236a6535c34de181452b7978c4.gif">
 - 🔭 Here's my [portfolio](Coming_soon..)                                                 
 - 🌱 I’m currently learning Generative AI
 - 👯 I’m looking to collaborate on ML/AI
