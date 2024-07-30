@@ -19,19 +19,15 @@ Ex-Project and Software Developer @ Zenjade Automation Private Limited.
 
 
 ### Tools 
-<br>
-<br>
 <img height="50" width="50" src="https://img.icons8.com/officel/16/selenium-test-automation.png" />
 <img height="50" width="50" src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" />
-<img height="50" width="50" src="" />
-<img height="50" width="50" src="" />
-<img height="50" width="50" src="" />
-<img height="50" width="50" src="" />
-<img height="50" width="50" src="" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/git.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/anaconda--v2.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/jenkins.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/google-cloud.png" />
 
 
 ### 💻 Workspace Spec
-<br>
-<br>
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
