@@ -13,31 +13,18 @@ Ex-Project and Software Developer @ Zenjade Automation Private Limited.
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UC5-tvl2iaiG4fSqVYT8oXAQ)
 
-### Coding Knowledge So Far
+### Code in
 <br>
 <br>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" />
-<img height="50" width="50" src="https://img.icons8.com/nolan/64/c-plus-plus-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/fluency/48/html-5.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/javascript--v1.png" />
-<img height="50" width="50" src="" />
-<img height="50" width="50" src="" />
-<img height="50" width="50" src="" />
-<img height="50" width="50" src="" />
-<img height="50" width="50" src="" />
-<img height="50" width="50" src="" />
-<img height="50" width="50" src="" />
-<img height="50" width="50" src="" />
-<img height="50" width="50" src="" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" /><img height="50" width="50" src="https://img.icons8.com/nolan/64/c-plus-plus-logo.png" /><img height="50" width="50" src="https://img.icons8.com/fluency/48/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/javascript--v1.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/angularjs.png" /><img height="50" width="50" src="https://img.icons8.com/cute-clipart/64/react-native.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/firebase.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png" /><img height="50" width="50" src="https://img.icons8.com/ios-filled/50/mysql-logo.png" /><img height="50" width="50" src="https://img.icons8.com/ios/50/unity.png" />
+
 
 
 ### Tools 
 <br>
 <br>
-<img height="50" width="50" src="" />
-<img height="50" width="50" src="" />
+<img height="50" width="50" src="https://img.icons8.com/officel/16/selenium-test-automation.png" />
+<img height="50" width="50" src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" />
 <img height="50" width="50" src="" />
 <img height="50" width="50" src="" />
 <img height="50" width="50" src="" />
