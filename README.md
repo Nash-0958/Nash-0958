@@ -15,7 +15,8 @@ Ex-Project and Software Developer @ Zenjade Automation Private Limited.
 
 ### Coding Knowledge So Far
 
-**Programming & Scripting Languages:**
+**Programming & Scripting Languages:** 
+<br>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
 
