@@ -13,7 +13,7 @@ Ex-Project and Software Developer @ Zenjade Automation Private Limited.
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I'm A Vlogger too.
 - <img src="https://yt3.ggpht.com/X8FMKzX_OOYeiqyqjPeuvGqzPJ7RB6TDirO5WoULCET3R2NJ6vcJpmInpQl00i3Tw5JItDnKyQ=s600-c-k-c0x00ffffff-no-rj-rp-mo" alt="Description of Image" style="width: 200px; height: auto;">
-- <a href="https://www.youtube.com/channel/UC5-tvl2iaiG4fSqVYT8oXAQ" title="@NashThoughts.yt"></a>
+- <a href="https://www.youtube.com/channel/UC5-tvl2iaiG4fSqVYT8oXAQ">@NashThoughts.yt</a>
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5-tvl2iaiG4fSqVYT8oXAQ)
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5-tvl2iaiG4fSqVYT8oXAQ)
 
