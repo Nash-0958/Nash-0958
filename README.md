@@ -1,5 +1,4 @@
 ## Hi there 👋 It's me NASH (aka) Nithishkumar Vasudevan
-Ex-Project and Software Developer @ Zenjade Automation Private Limited.
 <br>
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/929657/screenshots/2263931/media/705fc3236a6535c34de181452b7978c4.gif">
 <br>
